@@ -1,0 +1,33 @@
+Title: Individual Case Safety Report (ICSR) & Comprehensive Pharmacovigilance Assessment
+
+1. Patient Demographic & Administrative Details:
+* Report Type: Initial ICSR (Follow-up: None)
+* Patient Initials: R.S.
+* Age / Gender: 45 years / Male
+* Weight / Height: 70 kg / 175 cm
+* Country of Occurrence: India
+
+2. Suspected Adverse Drug Reaction (ADR) Information:
+* Reaction Term: Persistent dry cough and mild angioedema
+* Date of Onset: 3 days post-initiation of therapy
+* Seriousness: Non-serious per ICH E2D criteria (medically significant class-effect symptom requiring intervention)
+* Outcome: Recovered / Resolved completely within 48 hours post-withdrawal.
+
+3. Suspected Medicinal Product (Drug):
+* Drug Name: Enalapril (Tablet, 10 mg)
+* Indication: Essential Hypertension
+* Dosage Regimen: 10 mg orally once daily
+* Therapy Dates: Started 3 days prior to symptom onset; stopped immediately on day 3.
+
+4. Concomitant Medications & Medical History:
+* Past Medical History: Chronic Hypertension
+* Concomitant Drugs: None reported
+
+5. Pharmacovigilance Assessment (Causality & Severity):
+* Causality Assessment (WHO-UMC & Naranjo Algorithm): **Probable / Likely**. (Clear temporal sequence, prompt improvement upon dechallenge, and well-documented pharmacological profile).
+* Severity & Expectedness: Moderate severity, **Expected ADR** (Bradykinin-mediated dry cough and angioedema associated with ACE inhibitors).
+
+6. Regulatory Action & Final Conclusion:
+* Action Taken with Drug: Permanent discontinuation of Enalapril.
+* Action Taken for Reaction: Switch therapy to an Angiotensin II Receptor Blocker (ARB) such as Losartan.
+* Report Status: Finalized for entry into safety database and regulatory submission.
